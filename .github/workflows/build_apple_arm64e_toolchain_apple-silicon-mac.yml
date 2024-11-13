@@ -1,4 +1,4 @@
-name: Build apple-arm64e-upstream-next Toolchain for Apple Silicon Mac
+name: Build apple-arm64e-upstream-next Toolchain for Apple Silicon
 
 on:
   workflow_dispatch:
